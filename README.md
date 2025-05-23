@@ -2,6 +2,6 @@
 
 Use Semantic HTML to Create an SEO-Optimized and Accessible Website<br>
 Initial Report: <br>
-<img src="Lighthouse Report.png" height="300" alt="Clairo's Album Cover for Charm"/><br>
+<img src="Lighthouse Report.png" height="300" alt="First Lighthouse report"/><br>
 After some editing: <br>
-<img src="Lighthouse Report After.png" height="300" alt="Clairo's Album Cover for Charm"/>
+<img src="Lighthouse Report After.png" height="300" alt="Final Lighthouse report"/>
